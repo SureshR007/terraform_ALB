@@ -1,2 +1,1 @@
-It will create complete environment of VPC and will creare ec2.
-and also will create load balancer, print public ip address.
+It will deploy a scalable web application infrastructure in AWS using Terraform, including VPC, public subnets, an Internetgateway, Security groups, EC2 instance, and an applcation Load Balancer(ALB) to host a static webpage.
